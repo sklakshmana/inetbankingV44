@@ -1,0 +1,361 @@
+2021-05-20 16:51:20,491 [main] INFO ebanking - Entered username
+2021-05-20 16:51:20,640 [main] INFO ebanking - Entered password
+2021-05-20 16:51:25,231 [main] INFO ebanking - Login test passes
+2021-05-20 19:38:43,287 [main] INFO ebanking - Entered username
+2021-05-20 19:38:43,807 [main] INFO ebanking - Entered password
+2021-05-20 19:38:47,113 [main] INFO ebanking - Login test passes
+2021-05-20 22:54:03,973 [main] INFO ebanking - Entered username
+2021-05-20 22:54:04,152 [main] INFO ebanking - Entered password
+2021-05-20 22:54:06,584 [main] INFO ebanking - Login test passes
+2021-05-20 22:55:10,757 [main] INFO ebanking - Entered username
+2021-05-20 22:55:10,795 [main] INFO ebanking - Entered password
+2021-05-20 22:55:12,425 [main] INFO ebanking - Login test passes
+2021-05-21 00:01:31,077 [main] INFO ebanking - Entered username
+2021-05-21 00:01:31,518 [main] INFO ebanking - Entered password
+2021-05-21 00:01:34,843 [main] INFO ebanking - Login test passes
+2021-05-21 08:32:51,122 [main] INFO ebanking - Entered username
+2021-05-21 08:32:51,513 [main] INFO ebanking - Entered password
+2021-05-21 08:32:53,256 [main] INFO ebanking - Login test passes
+2021-05-21 20:27:30,211 [main] INFO ebanking - Entered username
+2021-05-21 20:27:30,476 [main] INFO ebanking - Entered password
+2021-05-21 20:27:32,795 [main] INFO ebanking - Login test passes
+2021-05-21 20:42:37,164 [main] INFO ebanking - Entered username
+2021-05-21 20:42:38,150 [main] INFO ebanking - Entered password
+2021-05-21 20:42:43,678 [main] INFO ebanking - Login test passes
+2021-05-21 20:48:03,650 [main] INFO ebanking - Entered username
+2021-05-21 20:48:05,164 [main] INFO ebanking - Entered password
+2021-05-21 20:48:09,816 [main] INFO ebanking - Login test passes
+2021-05-21 20:49:10,427 [main] INFO ebanking - Entered username
+2021-05-21 20:49:10,484 [main] INFO ebanking - Entered password
+2021-05-21 20:49:12,910 [main] INFO ebanking - Login test passes
+2021-05-21 21:11:00,785 [main] INFO ebanking - Entered username
+2021-05-21 21:11:01,336 [main] INFO ebanking - Entered password
+2021-05-21 21:11:07,643 [main] INFO ebanking - Login test passes
+2021-05-21 21:12:00,359 [main] INFO ebanking - Entered username
+2021-05-21 21:12:00,397 [main] INFO ebanking - Entered password
+2021-05-21 21:12:02,415 [main] INFO ebanking - Login test passes
+2021-05-21 21:15:51,335 [main] INFO ebanking - Entered username
+2021-05-21 21:15:51,534 [main] INFO ebanking - Entered password
+2021-05-21 21:15:53,839 [main] INFO ebanking - Login test passes
+2021-05-21 21:16:21,479 [main] INFO ebanking - Entered username
+2021-05-21 21:16:21,527 [main] INFO ebanking - Entered password
+2021-05-21 21:16:22,940 [main] INFO ebanking - Login test passes
+2021-05-22 18:24:56,650 [main] INFO ebanking - Entered username
+2021-05-22 18:24:56,983 [main] INFO ebanking - Entered password
+2021-05-22 18:24:59,533 [main] INFO ebanking - Login test passes
+2021-05-22 18:26:36,691 [main] INFO ebanking - Entered username
+2021-05-22 18:26:36,731 [main] INFO ebanking - Entered password
+2021-05-22 18:26:38,619 [main] INFO ebanking - Login test passes
+2021-05-22 19:24:32,848 [main] INFO ebanking - Entered username
+2021-05-22 19:24:33,840 [main] INFO ebanking - Entered password
+2021-05-22 19:24:45,820 [main] INFO ebanking - Login test passes
+2021-05-22 19:25:51,636 [main] INFO ebanking - Entered username
+2021-05-22 19:25:51,833 [main] INFO ebanking - Entered password
+2021-05-22 19:25:54,659 [main] INFO ebanking - Login test passes
+2021-05-22 19:28:19,885 [main] INFO ebanking - Entered username
+2021-05-22 19:28:20,351 [main] INFO ebanking - Entered password
+2021-05-22 19:29:03,916 [main] INFO ebanking - Entered username
+2021-05-22 19:29:04,164 [main] INFO ebanking - Entered password
+2021-05-22 19:45:48,461 [main] INFO ebanking - Entered username
+2021-05-22 19:45:48,956 [main] INFO ebanking - Entered password
+2021-05-22 19:51:03,680 [main] INFO ebanking - Entered username
+2021-05-22 19:51:03,841 [main] INFO ebanking - Entered password
+2021-05-23 00:26:59,771 [main] INFO ebanking - user name provided
+2021-05-23 00:27:00,126 [main] INFO ebanking - password proivded
+2021-05-23 00:27:02,636 [main] INFO ebanking - user name provided
+2021-05-23 00:27:02,704 [main] INFO ebanking - password proivded
+2021-05-23 00:27:05,024 [main] INFO ebanking - user name provided
+2021-05-23 00:27:05,082 [main] INFO ebanking - password proivded
+2021-05-23 00:27:06,645 [main] INFO ebanking - user name provided
+2021-05-23 00:27:06,689 [main] INFO ebanking - password proivded
+2021-05-23 00:27:08,889 [main] INFO ebanking - user name provided
+2021-05-23 00:27:08,938 [main] INFO ebanking - password proivded
+2021-05-23 00:37:36,644 [main] INFO ebanking - user name provided
+2021-05-23 00:37:36,691 [main] INFO ebanking - password proivded
+2021-05-23 00:37:41,538 [main] INFO ebanking - user name provided
+2021-05-23 00:37:41,586 [main] INFO ebanking - password proivded
+2021-05-23 00:37:46,905 [main] INFO ebanking - user name provided
+2021-05-23 00:37:46,969 [main] INFO ebanking - password proivded
+2021-05-23 00:37:52,070 [main] INFO ebanking - user name provided
+2021-05-23 00:37:52,199 [main] INFO ebanking - password proivded
+2021-05-23 00:37:57,463 [main] INFO ebanking - user name provided
+2021-05-23 00:37:57,491 [main] INFO ebanking - password proivded
+2021-05-23 00:40:32,162 [main] INFO ebanking - user name provided
+2021-05-23 00:40:32,199 [main] INFO ebanking - password proivded
+2021-05-23 00:40:37,255 [main] WARN ebanking - Login passed
+2021-05-23 00:40:42,935 [main] INFO ebanking - user name provided
+2021-05-23 00:40:42,988 [main] INFO ebanking - password proivded
+2021-05-23 00:40:57,070 [main] INFO ebanking - user name provided
+2021-05-23 00:40:57,129 [main] INFO ebanking - password proivded
+2021-05-23 00:41:02,005 [main] INFO ebanking - user name provided
+2021-05-23 00:41:02,040 [main] INFO ebanking - password proivded
+2021-05-23 00:41:06,138 [main] WARN ebanking - Login passed
+2021-05-23 00:41:12,094 [main] INFO ebanking - user name provided
+2021-05-23 00:41:12,137 [main] INFO ebanking - password proivded
+2021-05-23 17:53:54,362 [main] INFO ebanking - User name is provided
+2021-05-23 17:53:55,378 [main] INFO ebanking - Password is provided
+2021-05-23 17:54:07,897 [main] INFO ebanking - provideing customer details...
+2021-05-23 17:54:18,041 [main] INFO ebanking - validation started...
+2021-05-23 17:56:04,247 [main] INFO ebanking - User name is provided
+2021-05-23 17:56:04,293 [main] INFO ebanking - Password is provided
+2021-05-23 17:56:09,680 [main] INFO ebanking - provideing customer details...
+2021-05-23 17:56:16,644 [main] INFO ebanking - validation started...
+2021-05-23 17:57:35,093 [main] INFO ebanking - User name is provided
+2021-05-23 17:57:35,189 [main] INFO ebanking - Password is provided
+2021-05-23 17:57:41,354 [main] INFO ebanking - provideing customer details...
+2021-05-23 17:57:50,483 [main] INFO ebanking - validation started...
+2021-05-23 18:04:57,052 [main] INFO ebanking - User name is provided
+2021-05-23 18:04:58,253 [main] INFO ebanking - Password is provided
+2021-05-23 18:05:19,017 [main] INFO ebanking - provideing customer details...
+2021-05-23 18:05:31,683 [main] INFO ebanking - validation started...
+2021-05-23 18:08:51,454 [main] INFO ebanking - User name is provided
+2021-05-23 18:08:52,445 [main] INFO ebanking - Password is provided
+2021-05-23 18:09:18,265 [main] INFO ebanking - provideing customer details...
+2021-05-23 18:09:36,665 [main] INFO ebanking - validation started...
+2021-05-23 18:09:36,759 [main] INFO ebanking - test case passed...
+2021-05-23 21:02:12,819 [main] INFO ebanking - user name provided
+2021-05-23 21:02:13,510 [main] INFO ebanking - password proivded
+2021-05-23 21:02:20,194 [main] WARN ebanking - Login passed
+2021-05-23 21:02:34,990 [main] INFO ebanking - user name provided
+2021-05-23 21:02:35,303 [main] INFO ebanking - password proivded
+2021-05-23 21:02:47,849 [main] INFO ebanking - user name provided
+2021-05-23 21:02:48,040 [main] INFO ebanking - password proivded
+2021-05-23 21:02:57,484 [main] INFO ebanking - user name provided
+2021-05-23 21:02:57,667 [main] INFO ebanking - password proivded
+2021-05-23 21:03:13,726 [main] WARN ebanking - Login passed
+2021-05-23 21:03:31,996 [main] INFO ebanking - user name provided
+2021-05-23 21:03:32,140 [main] INFO ebanking - password proivded
+2021-05-23 21:03:59,730 [main] INFO ebanking - User name is provided
+2021-05-23 21:04:00,051 [main] INFO ebanking - Password is provided
+2021-05-23 21:04:08,849 [main] INFO ebanking - provideing customer details...
+2021-05-23 21:04:21,053 [main] INFO ebanking - validation started...
+2021-05-23 21:04:21,083 [main] INFO ebanking - test case passed...
+2021-05-23 21:14:44,684 [main] INFO ebanking - Entered username
+2021-05-23 21:14:44,855 [main] INFO ebanking - Entered password
+2021-05-23 21:14:46,998 [main] INFO ebanking - Login test passes
+2021-05-23 21:16:21,789 [main] INFO ebanking - Entered username
+2021-05-23 21:16:22,147 [main] INFO ebanking - Entered password
+2021-05-23 21:16:24,480 [main] INFO ebanking - Login test passes
+2021-05-23 21:16:50,926 [main] INFO ebanking - user name provided
+2021-05-23 21:16:51,083 [main] INFO ebanking - password proivded
+2021-05-23 21:16:57,771 [main] WARN ebanking - Login passed
+2021-05-23 21:17:10,804 [main] INFO ebanking - user name provided
+2021-05-23 21:17:10,998 [main] INFO ebanking - password proivded
+2021-05-23 21:17:24,292 [main] INFO ebanking - user name provided
+2021-05-23 21:17:24,487 [main] INFO ebanking - password proivded
+2021-05-23 21:17:36,236 [main] INFO ebanking - user name provided
+2021-05-23 21:17:36,381 [main] INFO ebanking - password proivded
+2021-05-23 21:17:45,239 [main] WARN ebanking - Login passed
+2021-05-23 21:17:56,055 [main] INFO ebanking - user name provided
+2021-05-23 21:17:56,232 [main] INFO ebanking - password proivded
+2021-05-23 21:18:33,968 [main] INFO ebanking - User name is provided
+2021-05-23 21:18:34,360 [main] INFO ebanking - Password is provided
+2021-05-23 21:18:44,508 [main] INFO ebanking - provideing customer details...
+2021-05-23 21:18:57,647 [main] INFO ebanking - validation started...
+2021-05-23 21:18:57,680 [main] INFO ebanking - test case passed...
+2021-05-23 21:25:26,981 [main] INFO ebanking - Entered username
+2021-05-23 21:25:27,149 [main] INFO ebanking - Entered password
+2021-05-23 21:25:48,488 [main] INFO ebanking - user name provided
+2021-05-23 21:25:48,855 [main] INFO ebanking - password proivded
+2021-05-23 21:25:55,792 [main] WARN ebanking - Login passed
+2021-05-23 21:26:16,692 [main] INFO ebanking - user name provided
+2021-05-23 21:26:17,017 [main] INFO ebanking - password proivded
+2021-05-23 21:26:27,765 [main] INFO ebanking - user name provided
+2021-05-23 21:26:28,025 [main] INFO ebanking - password proivded
+2021-05-23 21:26:39,692 [main] INFO ebanking - user name provided
+2021-05-23 21:26:39,851 [main] INFO ebanking - password proivded
+2021-05-23 21:26:50,404 [main] WARN ebanking - Login passed
+2021-05-23 21:27:01,534 [main] INFO ebanking - user name provided
+2021-05-23 21:27:01,688 [main] INFO ebanking - password proivded
+2021-05-23 21:27:31,036 [main] INFO ebanking - User name is provided
+2021-05-23 21:27:31,210 [main] INFO ebanking - Password is provided
+2021-05-23 21:27:40,424 [main] INFO ebanking - provideing customer details...
+2021-05-23 21:27:53,458 [main] INFO ebanking - validation started...
+2021-05-23 21:27:53,487 [main] INFO ebanking - test case passed...
+2021-05-23 21:39:50,050 [main] INFO ebanking - Entered username
+2021-05-23 21:39:50,261 [main] INFO ebanking - Entered password
+2021-05-23 21:39:52,077 [main] INFO ebanking - Login test passes
+2021-05-23 21:40:17,719 [main] INFO ebanking - user name provided
+2021-05-23 21:40:17,877 [main] INFO ebanking - password proivded
+2021-05-23 21:40:26,434 [main] INFO ebanking - user name provided
+2021-05-23 21:40:26,727 [main] INFO ebanking - password proivded
+2021-05-23 21:40:36,407 [main] INFO ebanking - user name provided
+2021-05-23 21:40:36,680 [main] INFO ebanking - password proivded
+2021-05-29 18:05:03,265 [main] INFO ebanking - User name is provided
+2021-05-29 18:05:03,858 [main] INFO ebanking - Password is provided
+2021-05-29 18:05:14,616 [main] INFO ebanking - provideing customer details...
+2021-05-29 18:05:30,686 [main] INFO ebanking - validation started...
+2021-05-29 18:05:30,718 [main] INFO ebanking - test case passed...
+2021-05-29 18:08:43,076 [main] INFO ebanking - Entered username
+2021-05-29 18:08:43,667 [main] INFO ebanking - Entered password
+2021-05-29 18:08:49,580 [main] INFO ebanking - Login test passes
+2021-05-29 18:51:33,074 [main] INFO ebanking - Entered username
+2021-05-29 18:51:33,907 [main] INFO ebanking - Entered password
+2021-05-29 18:51:40,329 [main] INFO ebanking - Login test passes
+2021-05-29 19:22:42,335 [main] INFO ebanking - Entered username
+2021-05-29 19:22:43,475 [main] INFO ebanking - Entered password
+2021-05-29 19:22:49,195 [main] INFO ebanking - Login test passes
+2021-06-01 10:14:08,296 [main] INFO ebanking - Entered username
+2021-06-01 10:14:08,953 [main] INFO ebanking - Entered password
+2021-06-01 10:14:13,600 [main] INFO ebanking - Login test passes
+2021-06-01 11:27:20,910 [main] INFO ebanking - Entered username
+2021-06-01 11:27:22,771 [main] INFO ebanking - Entered password
+2021-06-01 11:27:38,742 [main] INFO ebanking - Login test passes
+2021-06-02 09:54:12,456 [main] INFO ebanking - Entered username
+2021-06-02 09:54:12,833 [main] INFO ebanking - Entered password
+2021-06-02 10:10:58,168 [main] INFO ebanking - Entered username
+2021-06-02 10:10:58,420 [main] INFO ebanking - Entered password
+2021-06-02 10:11:01,084 [main] INFO ebanking - Login test passes
+2021-06-02 10:11:21,041 [main] INFO ebanking - user name provided
+2021-06-02 10:11:21,205 [main] INFO ebanking - password proivded
+2021-06-02 10:11:28,314 [main] WARN ebanking - Login passed
+2021-06-02 10:11:41,472 [main] INFO ebanking - user name provided
+2021-06-02 10:11:41,734 [main] INFO ebanking - password proivded
+2021-06-02 10:11:54,410 [main] INFO ebanking - user name provided
+2021-06-02 10:11:54,578 [main] INFO ebanking - password proivded
+2021-06-02 10:12:06,407 [main] INFO ebanking - user name provided
+2021-06-02 10:12:06,558 [main] INFO ebanking - password proivded
+2021-06-02 10:12:16,713 [main] WARN ebanking - Login passed
+2021-06-02 10:12:30,374 [main] INFO ebanking - user name provided
+2021-06-02 10:12:30,533 [main] INFO ebanking - password proivded
+2021-06-02 11:55:19,410 [main] INFO ebanking - user name provided
+2021-06-02 11:55:20,142 [main] INFO ebanking - password proivded
+2021-06-02 11:56:24,102 [main] WARN ebanking - Login passed
+2021-06-02 14:51:55,339 [main] INFO ebanking - Entered username
+2021-06-02 14:51:55,909 [main] INFO ebanking - Entered password
+2021-06-02 14:51:59,308 [main] INFO ebanking - Login test passes
+2021-06-02 14:52:19,197 [main] INFO ebanking - user name provided
+2021-06-02 14:52:19,419 [main] INFO ebanking - password proivded
+2021-06-02 14:52:30,601 [main] WARN ebanking - Login passed
+2021-06-02 14:52:57,997 [main] INFO ebanking - user name provided
+2021-06-02 14:52:58,202 [main] INFO ebanking - password proivded
+2021-06-02 14:53:09,518 [main] INFO ebanking - user name provided
+2021-06-02 14:53:09,793 [main] INFO ebanking - password proivded
+2021-06-02 14:53:20,652 [main] INFO ebanking - user name provided
+2021-06-02 14:53:21,113 [main] INFO ebanking - password proivded
+2021-06-02 14:53:34,930 [main] WARN ebanking - Login passed
+2021-06-02 14:53:46,854 [main] INFO ebanking - user name provided
+2021-06-02 14:53:47,162 [main] INFO ebanking - password proivded
+2021-06-02 14:54:27,871 [main] INFO ebanking - User name is provided
+2021-06-02 14:54:28,240 [main] INFO ebanking - Password is provided
+2021-06-02 14:55:04,129 [main] INFO ebanking - provideing customer details...
+2021-06-02 14:55:32,536 [main] INFO ebanking - validation started...
+2021-06-02 14:55:32,587 [main] INFO ebanking - test case passed...
+2021-06-09 08:42:48,876 [main] INFO ebanking - Entered username
+2021-06-09 08:42:49,478 [main] INFO ebanking - Entered password
+2021-06-09 08:43:22,697 [main] INFO ebanking - user name provided
+2021-06-09 08:43:22,847 [main] INFO ebanking - password proivded
+2021-06-09 08:43:30,348 [main] INFO ebanking - user name provided
+2021-06-09 08:43:30,505 [main] INFO ebanking - password proivded
+2021-06-09 08:43:41,202 [main] INFO ebanking - user name provided
+2021-06-09 08:43:41,431 [main] INFO ebanking - password proivded
+2021-06-09 08:43:51,210 [main] INFO ebanking - user name provided
+2021-06-09 08:43:51,382 [main] INFO ebanking - password proivded
+2021-06-09 08:44:02,674 [main] WARN ebanking - Login passed
+2021-06-09 08:44:13,829 [main] INFO ebanking - user name provided
+2021-06-09 08:44:14,021 [main] INFO ebanking - password proivded
+2021-06-09 08:44:39,531 [main] INFO ebanking - User name is provided
+2021-06-09 08:44:39,853 [main] INFO ebanking - Password is provided
+2021-06-09 08:53:28,581 [main] INFO ebanking - Entered username
+2021-06-09 08:53:28,780 [main] INFO ebanking - Entered password
+2021-06-09 08:53:51,564 [main] INFO ebanking - user name provided
+2021-06-09 08:53:51,886 [main] INFO ebanking - password proivded
+2021-06-09 08:53:57,992 [main] INFO ebanking - user name provided
+2021-06-09 08:53:58,222 [main] INFO ebanking - password proivded
+2021-06-09 08:54:11,588 [main] INFO ebanking - user name provided
+2021-06-09 08:54:11,831 [main] INFO ebanking - password proivded
+2021-06-09 08:54:23,407 [main] INFO ebanking - user name provided
+2021-06-09 08:54:23,680 [main] INFO ebanking - password proivded
+2021-06-09 08:54:31,399 [main] INFO ebanking - user name provided
+2021-06-09 08:54:31,551 [main] INFO ebanking - password proivded
+2021-06-09 08:54:50,598 [main] INFO ebanking - User name is provided
+2021-06-09 08:54:50,861 [main] INFO ebanking - Password is provided
+2021-06-09 08:56:19,534 [main] INFO ebanking - Entered username
+2021-06-09 08:56:19,827 [main] INFO ebanking - Entered password
+2021-06-09 08:56:35,555 [main] INFO ebanking - user name provided
+2021-06-09 08:56:35,817 [main] INFO ebanking - password proivded
+2021-06-09 08:56:42,109 [main] INFO ebanking - user name provided
+2021-06-09 08:56:42,347 [main] INFO ebanking - password proivded
+2021-06-09 08:56:56,400 [main] INFO ebanking - user name provided
+2021-06-09 08:56:56,707 [main] INFO ebanking - password proivded
+2021-06-09 08:57:07,796 [main] INFO ebanking - user name provided
+2021-06-09 08:57:08,134 [main] INFO ebanking - password proivded
+2021-06-09 08:57:16,309 [main] INFO ebanking - user name provided
+2021-06-09 08:57:16,452 [main] INFO ebanking - password proivded
+2021-06-09 08:57:35,878 [main] INFO ebanking - User name is provided
+2021-06-09 08:57:36,233 [main] INFO ebanking - Password is provided
+2021-06-09 10:20:09,823 [main] INFO ebanking - Entered username
+2021-06-09 10:20:10,060 [main] INFO ebanking - Entered password
+2021-06-09 10:20:12,422 [main] INFO ebanking - Login test passes
+2021-06-09 10:33:10,436 [main] INFO ebanking - Entered username
+2021-06-09 10:33:10,719 [main] INFO ebanking - Entered password
+2021-06-09 10:33:13,084 [main] INFO ebanking - Login test passes
+2021-06-09 10:33:36,795 [main] INFO ebanking - user name provided
+2021-06-09 10:33:37,284 [main] INFO ebanking - password proivded
+2021-06-09 10:33:47,856 [main] INFO ebanking - user name provided
+2021-06-09 10:33:48,152 [main] INFO ebanking - password proivded
+2021-06-09 10:33:59,399 [main] INFO ebanking - user name provided
+2021-06-09 10:33:59,667 [main] INFO ebanking - password proivded
+2021-06-09 10:34:08,548 [main] INFO ebanking - user name provided
+2021-06-09 10:34:08,717 [main] INFO ebanking - password proivded
+2021-06-09 10:34:21,261 [main] INFO ebanking - user name provided
+2021-06-09 10:34:21,595 [main] INFO ebanking - password proivded
+2021-06-09 10:35:48,902 [main] INFO ebanking - Entered username
+2021-06-09 10:35:49,145 [main] INFO ebanking - Entered password
+2021-06-09 10:35:53,943 [main] INFO ebanking - Login test passes
+2021-06-09 10:36:06,718 [main] INFO ebanking - user name provided
+2021-06-09 10:36:07,083 [main] INFO ebanking - password proivded
+2021-06-09 10:36:13,111 [main] INFO ebanking - user name provided
+2021-06-09 10:36:13,399 [main] INFO ebanking - password proivded
+2021-06-09 10:36:27,264 [main] INFO ebanking - user name provided
+2021-06-09 10:36:27,433 [main] INFO ebanking - password proivded
+2021-06-09 10:36:38,873 [main] INFO ebanking - user name provided
+2021-06-09 10:36:39,294 [main] INFO ebanking - password proivded
+2021-06-09 10:36:47,302 [main] INFO ebanking - user name provided
+2021-06-09 10:36:47,458 [main] INFO ebanking - password proivded
+2021-06-09 10:38:26,845 [main] INFO ebanking - Entered username
+2021-06-09 10:38:27,104 [main] INFO ebanking - Entered password
+2021-06-09 10:38:29,348 [main] INFO ebanking - Login test passes
+2021-06-09 10:38:46,656 [main] INFO ebanking - user name provided
+2021-06-09 10:38:46,809 [main] INFO ebanking - password proivded
+2021-06-09 10:38:53,786 [main] WARN ebanking - Login passed
+2021-06-09 10:39:09,898 [main] INFO ebanking - user name provided
+2021-06-09 10:39:10,040 [main] INFO ebanking - password proivded
+2021-06-09 10:39:14,530 [main] WARN ebanking - Login passed
+2021-06-09 10:39:31,748 [main] INFO ebanking - user name provided
+2021-06-09 10:39:31,890 [main] INFO ebanking - password proivded
+2021-06-09 10:39:36,246 [main] WARN ebanking - Login passed
+2021-06-09 10:39:51,874 [main] INFO ebanking - user name provided
+2021-06-09 10:39:52,022 [main] INFO ebanking - password proivded
+2021-06-09 10:39:56,546 [main] WARN ebanking - Login passed
+2021-06-09 10:40:18,313 [main] INFO ebanking - user name provided
+2021-06-09 10:40:18,568 [main] INFO ebanking - password proivded
+2021-06-09 11:42:52,960 [main] INFO ebanking - Entered username
+2021-06-09 11:42:53,770 [main] INFO ebanking - Entered password
+2021-06-09 11:43:00,398 [main] INFO ebanking - Login test passes
+2021-06-09 11:43:50,889 [main] INFO ebanking - user name provided
+2021-06-09 11:43:51,479 [main] INFO ebanking - password proivded
+2021-06-09 11:43:59,426 [main] WARN ebanking - Login passed
+2021-06-09 11:44:16,030 [main] INFO ebanking - user name provided
+2021-06-09 11:44:17,120 [main] INFO ebanking - password proivded
+2021-06-09 11:44:35,664 [main] WARN ebanking - Login passed
+2021-06-09 11:44:58,682 [main] INFO ebanking - user name provided
+2021-06-09 11:44:59,364 [main] INFO ebanking - password proivded
+2021-06-09 11:45:15,801 [main] WARN ebanking - Login passed
+2021-06-09 11:45:47,673 [main] INFO ebanking - user name provided
+2021-06-09 11:45:48,802 [main] INFO ebanking - password proivded
+2021-06-09 11:46:07,271 [main] WARN ebanking - Login passed
+2021-06-09 11:46:30,796 [main] INFO ebanking - user name provided
+2021-06-09 11:46:31,312 [main] INFO ebanking - password proivded
+2021-06-09 12:09:30,804 [main] INFO ebanking - Entered username
+2021-06-09 12:09:31,523 [main] INFO ebanking - Entered password
+2021-06-09 12:09:40,845 [main] INFO ebanking - Login test passes
+2021-06-09 13:00:21,148 [main] INFO ebanking - Entered username
+2021-06-09 13:00:22,518 [main] INFO ebanking - Entered password
+2021-06-09 13:00:29,754 [main] INFO ebanking - Login test passes
+2021-06-09 13:31:15,688 [main] INFO ebanking - Entered username
+2021-06-09 13:31:17,975 [main] INFO ebanking - Entered password
+2021-06-09 13:31:24,729 [main] INFO ebanking - Login test passes
+2021-06-13 12:54:10,771 [main] INFO ebanking - Entered username
+2021-06-13 12:54:11,423 [main] INFO ebanking - Entered password
+2021-06-13 12:54:16,152 [main] INFO ebanking - Login test passes
